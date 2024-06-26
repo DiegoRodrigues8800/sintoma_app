@@ -24,7 +24,6 @@ class SintomaController {
         });
         return _items;
       } else {
-        print('Não há dados no servidor.');
         return [];
       }
     } else {

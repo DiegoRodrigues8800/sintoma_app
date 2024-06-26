@@ -1,16 +1,5 @@
-# sintomas
+Sintoma App é um aplicativo para cadastrar sintomas, de acordo com intensidade e data. Vinculado ao FireBase!
+Basta cadastrar seu sintoma, se necessario pode editar e tambem excluir o mesmo!
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Explicação mais detalhada e funcionamento do mesmo:
+https://www.youtube.com/watch?v=UJa8UjOzi_U
